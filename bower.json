@@ -1,7 +1,7 @@
 {
   "name": "TestingBowerComponent",
   "version": "0.0.1",
-  "private": "true",
+  "private": "false",
   "ignore": [
         "build",
         "hooks",
